@@ -1,0 +1,10 @@
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\bin\x64\Debug\Dooz.exe.config
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\bin\x64\Debug\Dooz.exe
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\bin\x64\Debug\Dooz.pdb
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\x64\Debug\Dooz.Properties.Resources.resources
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\x64\Debug\Morabaraba.csproj.GenerateResource.cache
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\x64\Debug\Morabaraba.csproj.CoreCompileInputs.cache
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\x64\Debug\Dooz.exe
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\x64\Debug\Dooz.pdb
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\x64\Debug\Dooz.Form1.resources
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\x64\Debug\Morabaraba.csprojAssemblyReference.cache

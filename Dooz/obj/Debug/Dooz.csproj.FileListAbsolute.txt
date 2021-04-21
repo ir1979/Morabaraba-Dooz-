@@ -1,0 +1,9 @@
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\bin\Debug\Dooz.exe.config
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\bin\Debug\Dooz.exe
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\bin\Debug\Dooz.pdb
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\Debug\Dooz.csprojAssemblyReference.cache
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\Debug\Dooz.Properties.Resources.resources
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\Debug\Dooz.csproj.GenerateResource.cache
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\Debug\Dooz.csproj.CoreCompileInputs.cache
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\Debug\Dooz.exe
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G1\Dooz\Dooz\obj\Debug\Dooz.pdb
